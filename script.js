@@ -1,7 +1,7 @@
 let spinON = false; // Variável de controle da roleta antes de rodar
 let valorPremio = "1€" // Valor da mensagem prémio
 let imagemSrc = "images/feliz.jpeg";
-let urlResgate = "https://economilar.com/login-user.php"; // exemplo
+let urlResgate = "https://google.com"; // exemplo
 
     function balanco() {
       const wheel = document.getElementById('wheel');
